@@ -1,6 +1,6 @@
 {
   "name": "jkp.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A js framework for John K Paul",
   "main": "index.js",
   "scripts": {
