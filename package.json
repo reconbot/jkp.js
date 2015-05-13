@@ -1,0 +1,22 @@
+{
+  "name": "jkp.js",
+  "version": "1.0.0",
+  "description": "A js framework for John K Paul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reconbot/jkp.js.git"
+  },
+  "keywords": [
+    "manhattanjs"
+  ],
+  "author": "Francis Gulotta <wizard@roborooter.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reconbot/jkp.js/issues"
+  },
+  "homepage": "https://github.com/reconbot/jkp.js"
+}
